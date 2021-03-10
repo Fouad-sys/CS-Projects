@@ -1,0 +1,1103 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HP PC/Google Drive/Teaching/ArchOrd Mirjana/3-multicycle_niosII-workinprogress/project_template/modelsim
+Eadd_sub
+Z0 w1601559677
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/modelsim
+Z5 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/add_sub.vhd
+Z6 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/add_sub.vhd
+l0
+L5
+Vo8?jYZ6FQ3YJRl`D[>HaQ0
+!s100 :^CeSS2;An`4L;0FNT50z3
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1603816935
+!i10b 1
+Z9 !s108 1603816935.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/add_sub.vhd|
+Z11 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/add_sub.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Asynth
+R1
+R2
+R3
+DEx4 work 7 add_sub 0 22 o8?jYZ6FQ3YJRl`D[>HaQ0
+l22
+L16
+VCFbEJedC>=L9U`H9;dN;Y1
+!s100 DC@hYjzZM]KR]a91PPKzl1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu
+Z14 w1601555646
+R2
+R3
+R4
+Z15 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/ALU.vhd
+Z16 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/ALU.vhd
+l0
+L24
+Veej2kZB@<P^6oAR8[4fm:3
+!s100 O`l`Xc5c_V9`dzon<W_fQ2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/ALU.vhd|
+Z18 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/ALU.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R2
+R3
+DEx4 work 3 alu 0 22 eej2kZB@<P^6oAR8[4fm:3
+l91
+L34
+VLI51E<M>:_GB:hYQRzei42
+!s100 5mhSoSE>Wkao;m_TR?38;1
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ebuttons
+Z19 w1603551325
+R1
+R2
+R3
+R4
+Z20 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/buttons.vhd
+Z21 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/buttons.vhd
+l0
+L5
+VTC?7j54hYXC]E_?KP:GCD0
+!s100 =22bV77NIHzbkEY31]2hQ2
+R7
+32
+Z22 !s110 1603816934
+!i10b 1
+Z23 !s108 1603816934.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/buttons.vhd|
+Z25 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/buttons.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 7 buttons 0 22 TC?7j54hYXC]E_?KP:GCD0
+l31
+L22
+V>bdKLBAC[bOhQ3fckJO@23
+!s100 l:Q7JXKFoP5Z9FQDUXG9]3
+R7
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R12
+R13
+Pcheck_functions
+Z26 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R2
+R3
+R19
+R4
+Z27 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/check_functions.vhd
+Z28 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/check_functions.vhd
+l0
+L6
+V?:GUj2L`C8MiBgFD5SbXJ3
+!s100 eDnLHELO`V5ohl=5KQY@20
+R7
+32
+b1
+R8
+!i10b 1
+R9
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/check_functions.vhd|
+Z30 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/check_functions.vhd|
+!i113 1
+R12
+R13
+Bbody
+Z31 DPx4 work 15 check_functions 0 22 ?:GUj2L`C8MiBgFD5SbXJ3
+R26
+R2
+R3
+l0
+L40
+VN2Cd<T:6Db14m[JS6o24S2
+!s100 ]Ul<gd[SNh_SV]VQVO[::0
+R7
+32
+R8
+!i10b 1
+R9
+R29
+R30
+!i113 1
+R12
+R13
+Ecomparator
+Z32 w1601456591
+R2
+R3
+R4
+Z33 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/comparator.vhd
+Z34 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/comparator.vhd
+l0
+L4
+VCjORK3IeLYQ=F3ilQICKC3
+!s100 XTWoF>RX1>LcmLLBBo;N:0
+R7
+32
+Z35 !s110 1603816936
+!i10b 1
+R9
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/comparator.vhd|
+Z37 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/comparator.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 10 comparator 0 22 CjORK3IeLYQ=F3ilQICKC3
+l21
+L16
+VKDU6=6CQL[:?_]YeDBm5_3
+!s100 TcVZa0`b;2Lb=lROmS@gI1
+R7
+32
+R35
+!i10b 1
+R9
+R36
+R37
+!i113 1
+R12
+R13
+Econtroller
+Z38 w1603816224
+R2
+R3
+R4
+Z39 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/controller.vhd
+Z40 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/controller.vhd
+l0
+L4
+Vf;MB]cAAF@dMG1KDnYGdM0
+!s100 6C6da]QOJF`DVH3DTg_bC0
+R7
+32
+R22
+!i10b 1
+R23
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/controller.vhd|
+Z42 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/controller.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 10 controller 0 22 f;MB]cAAF@dMG1KDnYGdM0
+l45
+L39
+V1VCEegdc;VPAR@h_SJ0@I2
+!s100 QDzazOP4K8VD`cC=LfJ6:2
+R7
+32
+R22
+!i10b 1
+R23
+R41
+R42
+!i113 1
+R12
+R13
+Ecpu
+R19
+R2
+R3
+R4
+Z43 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/CPU.vhd
+Z44 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/CPU.vhd
+l0
+L24
+V^k:mLV::fS6IZ<z`ORIE:3
+!s100 ?^3E^YkUK_jO8j=PLQg0X0
+R7
+32
+R22
+!i10b 1
+R23
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/CPU.vhd|
+Z46 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/CPU.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R2
+R3
+DEx4 work 3 cpu 0 22 ^k:mLV::fS6IZ<z`ORIE:3
+l168
+L37
+V9Bndb[hOzThX7`@B[Am>i0
+!s100 nj]fOeJzKgV2QQoiYJ37e2
+R7
+32
+R22
+!i10b 1
+R23
+R45
+R46
+!i113 1
+R12
+R13
+Edecoder
+Z47 w1603806723
+R1
+R2
+R3
+R4
+Z48 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/decoder.vhd
+Z49 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/decoder.vhd
+l0
+L5
+VRmMbRk=eK;[=^8gZ@MY;d2
+!s100 [=GD<ThUYhT?2dg2ooP7P1
+R7
+32
+R35
+!i10b 1
+Z50 !s108 1603816936.000000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/decoder.vhd|
+Z52 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/decoder.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 7 decoder 0 22 RmMbRk=eK;[=^8gZ@MY;d2
+l20
+L15
+V8>Hf2;2bGEXz`1aN[bePU3
+!s100 bf19Kale3^0naT;ZMbDeD2
+R7
+32
+R35
+!i10b 1
+R50
+R51
+R52
+!i113 1
+R12
+R13
+Eextend
+Z53 w1603814790
+R2
+R3
+R4
+Z54 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/extend.vhd
+Z55 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/extend.vhd
+l0
+L4
+VBHQmhzc[eQ=cgFHTPTKLg3
+!s100 [OER<nle^Gzi[Q]KGKSL33
+R7
+32
+R22
+!i10b 1
+R23
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/extend.vhd|
+Z57 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/extend.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 6 extend 0 22 BHQmhzc[eQ=cgFHTPTKLg3
+l14
+L12
+Vn2P55V<lh1014fKj:?dRS0
+!s100 O[[f8C:fTa`?Hd>H82W=h2
+R7
+32
+R22
+!i10b 1
+R23
+R56
+R57
+!i113 1
+R12
+R13
+Egecko
+R19
+R2
+R3
+R4
+Z58 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/GECKO.vhd
+Z59 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/GECKO.vhd
+l0
+L25
+V<G=z]=?11MYNLGAa7EfI40
+!s100 LSB69=RnS?7B=e740[]>J0
+R7
+32
+R22
+!i10b 1
+R23
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/GECKO.vhd|
+Z61 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/GECKO.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R2
+R3
+Z62 DEx4 work 5 gecko 0 22 <G=z]=?11MYNLGAa7EfI40
+l122
+L42
+V3KAL;YNmTk<RB?NDa;DmY2
+!s100 6_aIkK46>FzI3D:<OBG:Z1
+R7
+32
+R22
+!i10b 1
+R23
+R60
+R61
+!i113 1
+R12
+R13
+Eir
+Z63 w1603807581
+R2
+R3
+R4
+Z64 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/IR.vhd
+Z65 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/IR.vhd
+l0
+L4
+VQ]Me?^f6aW>Rn?0SjN6:B3
+!s100 g>VC3<ZiU9SUL1eB^Hc9_3
+R7
+32
+R22
+!i10b 1
+R23
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/IR.vhd|
+Z67 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/IR.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 2 ir 0 22 Q]Me?^f6aW>Rn?0SjN6:B3
+l15
+L13
+VC4<TGfUbZ2^b2cEJdJaO]2
+!s100 Y:L]McAb@Xn4PKjn1@D4g1
+R7
+32
+R22
+!i10b 1
+R23
+R66
+R67
+!i113 1
+R12
+R13
+Eleds
+R19
+R1
+R2
+R3
+R4
+Z68 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/LEDs.vhd
+Z69 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/LEDs.vhd
+l0
+L5
+Vo>J7iWB4M6`?_S`BVlDj31
+!s100 LBhnQz<diU;5h1EbFfFEW1
+R7
+32
+R35
+!i10b 1
+R50
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/LEDs.vhd|
+Z71 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/LEDs.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 4 leds 0 22 o>J7iWB4M6`?_S`BVlDj31
+l35
+L22
+VzPJN=e8mNVefz3=kdaUYk1
+!s100 >nX>UXM`h;^[mnM>habSd1
+R7
+32
+R35
+!i10b 1
+R50
+R70
+R71
+!i113 1
+R12
+R13
+Elogic_unit
+Z72 w1601217195
+R2
+R3
+R4
+Z73 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/logic_unit.vhd
+Z74 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/logic_unit.vhd
+l0
+L4
+V<?zaE@?M1lIziRP1K9f0m3
+!s100 UJioXKUg8XUULGTSe2WE20
+R7
+32
+R35
+!i10b 1
+R50
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/logic_unit.vhd|
+Z76 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/logic_unit.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 10 logic_unit 0 22 <?zaE@?M1lIziRP1K9f0m3
+l16
+L13
+VfKgSnLhTDfLnW=VXZ>cR_0
+!s100 ZRYE<4[f>nz_19mT^e1lD2
+R7
+32
+R35
+!i10b 1
+R50
+R75
+R76
+!i113 1
+R12
+R13
+Emultiplexer
+Z77 w1601233666
+R2
+R3
+R4
+Z78 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/multiplexer.vhd
+Z79 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/multiplexer.vhd
+l0
+L4
+VF8]@h:=2JK_ZknAYR7E281
+!s100 UDM^5ga=kb9Z[=K^]bghV0
+R7
+32
+R35
+!i10b 1
+R50
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/multiplexer.vhd|
+Z81 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/multiplexer.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 11 multiplexer 0 22 F8]@h:=2JK_ZknAYR7E281
+l17
+L15
+VPHKe4V[o:1:XmT@gGo]:j1
+!s100 F?R]ojAn_8>Jd;RJz1[>[2
+R7
+32
+R35
+!i10b 1
+R50
+R80
+R81
+!i113 1
+R12
+R13
+Emux2x16
+Z82 w1603807631
+R2
+R3
+R4
+Z83 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x16.vhd
+Z84 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x16.vhd
+l0
+L4
+V[zBz7>3=iJIjV7W;lkDDk2
+!s100 ]AkMHg3_OS9:k6cjVd[b:3
+R7
+32
+R8
+!i10b 1
+R9
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x16.vhd|
+Z86 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x16.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 7 mux2x16 0 22 [zBz7>3=iJIjV7W;lkDDk2
+l15
+L13
+VllcZDFkaDBBY19bZJcHP43
+!s100 BPJVdb0b1@[dYDDLM>]B70
+R7
+32
+R8
+!i10b 1
+R9
+R85
+R86
+!i113 1
+R12
+R13
+Emux2x32
+Z87 w1603807573
+R2
+R3
+R4
+Z88 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x32.vhd
+Z89 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x32.vhd
+l0
+L4
+Vz2PPzaCZ^?dR5HDgGkDL50
+!s100 Iab^5l@hZCaSi22IEjFiN0
+R7
+32
+R8
+!i10b 1
+R9
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x32.vhd|
+Z91 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x32.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 7 mux2x32 0 22 z2PPzaCZ^?dR5HDgGkDL50
+l15
+L13
+VbN<k0`g`DDQ]mY0hKLF<n2
+!s100 3lFCKmSY3B^7<<kVQSV_M0
+R7
+32
+R8
+!i10b 1
+R9
+R90
+R91
+!i113 1
+R12
+R13
+Emux2x5
+Z92 w1603807785
+R2
+R3
+R4
+Z93 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x5.vhd
+Z94 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x5.vhd
+l0
+L4
+Vmonb[Cd]:^BVjaKJKDMmm3
+!s100 A96?gLbg3Wafg>1JToSDm3
+R7
+32
+R22
+!i10b 1
+R23
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x5.vhd|
+Z96 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/mux2x5.vhd|
+!i113 1
+R12
+R13
+Asynth
+R2
+R3
+DEx4 work 6 mux2x5 0 22 monb[Cd]:^BVjaKJKDMmm3
+l15
+L13
+VY<EQ0mSdcAl2jBc>zP2Pe3
+!s100 <JgN6>Co8l9JVQz@?:?S51
+R7
+32
+R22
+!i10b 1
+R23
+R95
+R96
+!i113 1
+R12
+R13
+Epc
+Z97 w1603814051
+R1
+R2
+R3
+R4
+Z98 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/PC.vhd
+Z99 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/PC.vhd
+l0
+L5
+Vc5@O0[^J3@8:ZL]z]V<DZ1
+!s100 Vz;DIYb[AY;g5[laVME<e3
+R7
+32
+R8
+!i10b 1
+R9
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/PC.vhd|
+Z101 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/PC.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 2 pc 0 22 c5@O0[^J3@8:ZL]z]V<DZ1
+l22
+L19
+VDHh0U[D2[K?R[Z<CX8EcW3
+!s100 Na]HMm@JNR`Befg=^STZ40
+R7
+32
+R8
+!i10b 1
+R9
+R100
+R101
+!i113 1
+R12
+R13
+Eram
+Z102 w1602075598
+R1
+R2
+R3
+R4
+Z103 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/RAM.vhd
+Z104 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/RAM.vhd
+l0
+L5
+V=8=0kCdFClMYhaKCeYWGK0
+!s100 9O>00CFElD4PLMkihiTWm3
+R7
+32
+R35
+!i10b 1
+R50
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/RAM.vhd|
+Z106 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/RAM.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 3 ram 0 22 =8=0kCdFClMYhaKCeYWGK0
+l23
+L16
+VT7`j4b52R[o]ZBm8BfS8i0
+!s100 0hC<SjU1OZ[[3d:WIonUP0
+R7
+32
+R35
+!i10b 1
+R50
+R105
+R106
+!i113 1
+R12
+R13
+Eregister_file
+Z107 w1602012305
+R1
+R2
+R3
+R4
+Z108 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/register_file.vhd
+Z109 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/register_file.vhd
+l0
+L5
+V8g^8K5WBm;RIb;]_`clh72
+!s100 _;mToXbZzY:WVO^oMIJ;J3
+R7
+32
+R35
+!i10b 1
+R50
+Z110 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/register_file.vhd|
+Z111 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/register_file.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 13 register_file 0 22 8g^8K5WBm;RIb;]_`clh72
+l24
+L18
+V=O38c[VXP8AK[6`Kl]fM20
+!s100 @g5<7:L2@m@gijJF6L5@I3
+R7
+32
+R35
+!i10b 1
+R50
+R110
+R111
+!i113 1
+R12
+R13
+Erom
+Z112 w1602076931
+R1
+R2
+R3
+R4
+Z113 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/ROM.vhd
+Z114 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/ROM.vhd
+l0
+L5
+VX5Cf2D3IK^SHC=2mmORjh2
+!s100 ;HJP:4Pf6d9ca=B<]K[Bj1
+R7
+32
+R35
+!i10b 1
+R50
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/ROM.vhd|
+Z116 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/ROM.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+DEx4 work 3 rom 0 22 X5Cf2D3IK^SHC=2mmORjh2
+l32
+L15
+VnZgWbZ1A?fH>BBS?7_DhI3
+!s100 :fRc4@U8]GBA1CagTBDmJ2
+R7
+32
+R35
+!i10b 1
+R50
+R115
+R116
+!i113 1
+R12
+R13
+Eshift_unit
+R19
+R1
+R2
+R3
+R4
+Z117 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/shift_unit.vhd
+Z118 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/shift_unit.vhd
+l0
+L5
+V1M]>N42_Z8g;d_kla3]QX1
+!s100 C4@E7NN0:UB89P^MW405S0
+R7
+32
+R35
+!i10b 1
+R50
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/shift_unit.vhd|
+Z120 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/vhdl/shift_unit.vhd|
+!i113 1
+R12
+R13
+Asynth
+R1
+R2
+R3
+Z121 DEx4 work 10 shift_unit 0 22 1M]>N42_Z8g;d_kla3]QX1
+l17
+L14
+Z122 V]CDQXI^n>W[4MHN@WbicF2
+Z123 !s100 dC3RH_ngSNidhYJX18aNc2
+R7
+32
+R35
+!i10b 1
+R50
+R119
+R120
+!i113 1
+R12
+R13
+Etb_controller
+R19
+R31
+R26
+R1
+R2
+R3
+R4
+Z124 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_Controller.vhd
+Z125 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_Controller.vhd
+l0
+L9
+VZCcUb3fdX5TPAiQ:oX6>00
+!s100 QPYMI?@zF<fA]gVd9c[kS0
+R7
+32
+R8
+!i10b 1
+R9
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_Controller.vhd|
+Z127 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_Controller.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R31
+R26
+R1
+R2
+R3
+DEx4 work 13 tb_controller 0 22 ZCcUb3fdX5TPAiQ:oX6>00
+l102
+L15
+VRcd9HSbN_bb^GYllR2;J?3
+!s100 _WkzDDFBPd:3LHMWS[AoW2
+R7
+32
+R8
+!i10b 1
+R9
+R126
+R127
+!i113 1
+R12
+R13
+Etb_extend
+R19
+R31
+R26
+R2
+R3
+R4
+Z128 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_Extend.vhd
+Z129 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_Extend.vhd
+l0
+L8
+V@lkI76dg98:AiUBl4o<zm3
+!s100 bW1ZJ800R3O0<C<7nO4h:1
+R7
+32
+R8
+!i10b 1
+R9
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_Extend.vhd|
+Z131 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_Extend.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R31
+R26
+R2
+R3
+DEx4 work 9 tb_extend 0 22 @lkI76dg98:AiUBl4o<zm3
+l31
+L11
+VgkGZJ3^bcBa2UcQNd4nEP0
+!s100 f><EEJh?:BbXgSC^g?0XG2
+R7
+32
+R8
+!i10b 1
+R9
+R130
+R131
+!i113 1
+R12
+R13
+Etb_gecko
+R19
+R2
+R3
+R4
+Z132 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_GECKO.vhd
+Z133 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_GECKO.vhd
+l0
+L4
+V:_k74K^o>B59BI9RXO]<F0
+!s100 M92[;29_Yc:FoKCCIgj]?0
+R7
+32
+R8
+!i10b 1
+R9
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_GECKO.vhd|
+Z135 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_GECKO.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R62
+R2
+R3
+DEx4 work 8 tb_gecko 0 22 :_k74K^o>B59BI9RXO]<F0
+l14
+L7
+V?Pb5o]@?80AAQlAnVV8dE3
+!s100 1395I=^FjK==Lo:2:Ck6c3
+R7
+32
+R8
+!i10b 1
+R9
+R134
+R135
+!i113 1
+R12
+R13
+Etb_ir
+R19
+R31
+R26
+R2
+R3
+R4
+Z136 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_IR.vhd
+Z137 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_IR.vhd
+l0
+L8
+V2T=Zh6d765W0^=F5B=UE;2
+!s100 dO7:P:CO76Dg9T_Q>3Mi:2
+R7
+32
+R8
+!i10b 1
+R9
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_IR.vhd|
+Z139 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_IR.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R31
+R26
+R2
+R3
+DEx4 work 5 tb_ir 0 22 2T=Zh6d765W0^=F5B=UE;2
+l32
+L11
+VCP7`U1589PM=ZL1o:mn]=1
+!s100 g?YUbkdlEmZ2JbBY[dbba0
+R7
+32
+R8
+!i10b 1
+R9
+R138
+R139
+!i113 1
+R12
+R13
+Etb_pc
+R19
+R31
+R26
+R2
+R3
+R4
+Z140 8C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_PC.vhd
+Z141 FC:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_PC.vhd
+l0
+L8
+V6CDWjcJeT<^Z<em:_JS812
+!s100 _Sjg^6a@flK7I1KVlG]Sm2
+R7
+32
+R8
+!i10b 1
+R9
+Z142 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_PC.vhd|
+Z143 !s107 C:/Users/chris/Documents/epfl/Ba3/Computer_Architecture/template/testbench/tb_PC.vhd|
+!i113 1
+R12
+R13
+Atestbench
+R31
+R26
+R2
+R3
+DEx4 work 5 tb_pc 0 22 6CDWjcJeT<^Z<em:_JS812
+l42
+L11
+V__N]fmFLjWMQQ<T5zK=cJ0
+!s100 gKH@n?YGO`P>Bz<MRbX@K0
+R7
+32
+R8
+!i10b 1
+R9
+R142
+R143
+!i113 1
+R12
+R13
