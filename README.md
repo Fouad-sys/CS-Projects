@@ -1,7 +1,7 @@
 # CS-Projects
 Collection of some of my EPFL projects
 
-Interactive Ball Game (April-May 2020): Collaborated with two university students to implement this Processing 3D game of a ball rolling on a mouse tilted platform with the possibility of adding new obstacles, viewing the game in multiple angles and continous score displays as well as my added animated confetti once the game boss Robotnik is defeated!
+Interactive Ball Game (April-May 2020): Collaborated with two university students to implement this Processing 3D game of a ball rolling on a mouse tilted platform with the possibility of adding new obstacles, viewing the game in multiple angles and continous score displays as well as my added animated confetti once the game boss Robotnik is defeated! The Game can be played by running the Game.pde file.
 
 Gameboy interface (April-May 2020): Collaborated with a colleague to collectively simulate the behavior of the infamous Nintendo Gameboy allowing it to play game cartridges.
 
