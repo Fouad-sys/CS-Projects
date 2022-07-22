@@ -87,7 +87,7 @@ function PlayMultipleChoice({
               direction={"column"}
               sx={{ pb: 3 }}
               align="center"
-              columns={{ xs: 12, sm: 12, md: 12, lg: 12, xl: 12 }}
+              columns={{ xs: 4, sm: 8, md: 12, lg: 12, xl: 12 }}
             >
               <Grid item sx={{ py: 3 }}>
                 <ThemeProvider theme={theme}>

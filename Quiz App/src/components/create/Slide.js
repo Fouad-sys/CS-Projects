@@ -21,7 +21,7 @@ function Slide({
         container
         direction={"column"}
         align="left"
-        columns={{ xs: 12, sm: 12, md: 12, lg: 12, xl: 12 }}
+        columns={{ xs: 4, sm: 8, md: 12, lg: 12, xl: 12 }}
       >
         <Grid item sx={{ pb: 2 }}>
           <Typography variant="p1">
@@ -44,7 +44,7 @@ function Slide({
           <Grid
             container
             direction={"row"}
-            columns={{ xs: 12, sm: 12, md: 12, lg: 12, xl: 12 }}
+            columns={{ xs: 4, sm: 8, md: 12, lg: 12, xl: 12 }}
           >
             <Grid item align="left">
               <TextField

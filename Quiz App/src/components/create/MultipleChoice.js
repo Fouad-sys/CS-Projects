@@ -48,7 +48,7 @@ function MultipleChoice({ choices, setChoices, setDataChanged }) {
         container
         direction={"column"}
         align="left"
-        columns={{ xs: 12, sm: 12, md: 12, lg: 12, xl: 12 }}
+        columns={{ xs: 4, sm: 8, md: 12, lg: 12, xl: 12 }}
       >
         <Grid item>
           <Typography variant="p1"> Answers:</Typography>
@@ -60,7 +60,7 @@ function MultipleChoice({ choices, setChoices, setDataChanged }) {
               <Grid
                 container
                 direction={"column"}
-                columns={{ xs: 12, sm: 12, md: 12, lg: 12, xl: 12 }}
+                columns={{ xs: 4, sm: 8, md: 12, lg: 12, xl: 12 }}
                 align="left"
               >
                 <Grid item sx={{ pt: 2 }}>
