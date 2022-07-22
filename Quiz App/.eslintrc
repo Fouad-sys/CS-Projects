@@ -1,0 +1,12 @@
+{
+    "env": {
+      "browser": true,
+      "node": true,
+      "mocha": true,
+      "jest": true
+    },
+    "parser": "@babel/eslint-parser",
+
+  "parserOptions": {
+    "requireConfigFile":false}
+  }
