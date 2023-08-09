@@ -14,3 +14,5 @@ The third argument depends on the player type and is either the IP address of th
 (Arguments are separated by a space).
 
 Digit Recognition (October 2018): Worked solely on my first coding project (on Java) that recognizes digits from a test dataset by using the Machine Learning K-Nearest-Neighbors approach with the MNIST dataset as training data.
+
+Alice in Wonderland Escape Game (February-June 2023): An Alice in Wonderland-themed virtual reality escape game designed alongside two EPFL students using C# on Unity. This game allows players to explore several unusual rooms, find clues to unlock doors, and complete puzzles in order to navigate their way into Wonderland.
